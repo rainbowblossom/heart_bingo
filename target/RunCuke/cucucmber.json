@@ -1,0 +1,152 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6498169500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "User should not login with invalid credentials",
+        "description": "",
+        "id": "login-test;user-should-not-login-with-invalid-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 780248500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 144855200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 206904200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on \"Log In\" login link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Log In",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStepdefs.iClickOnLoginLink(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1627721600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter username \"abcd123@gmail.com\" at username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abcd123@gmail.com",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginStepdefs.iEnterUsernameAtUsernameField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3157579800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter password \"xyz123\" at password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xyz123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginStepdefs.iEnterPasswordAtPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3053637000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on  login button",
+            "match": {
+              "location": "LoginStepdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264689700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see the errormessage",
+            "match": {
+              "location": "LoginStepdefs.iShouldSeeTheErrormessage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 129327000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I close login frame",
+            "match": {
+              "location": "LoginStepdefs.iCloseLoginFrame()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As a user I want to login into HeartBingo website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]

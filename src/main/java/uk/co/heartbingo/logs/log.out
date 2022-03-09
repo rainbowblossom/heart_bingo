@@ -1,0 +1,85 @@
+2021-12-11 16:12:849 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-11 16:12:101 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3e73018f8f199eb4f2892772abe635c2)] -> link text: Log in]
+2021-12-11 16:12:144 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3e73018f8f199eb4f2892772abe635c2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 16:12:33 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-11 16:12:119 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (39a4850cbee48c5319b1a03c661fcc14)] -> link text: Log in]
+2021-12-21 23:12:507 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-21 23:12:220 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 00:01:731 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 00:01:243 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:636 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:238 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:702 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:593 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:747 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 14:01:533 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 15:01:292 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:61 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:675 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:980 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:777 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:123 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:107 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:824 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:73 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:620 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:728 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:178 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:142 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:592 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (89e7907b8ffedce465c572e08a25cdec)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (89e7907b8ffedce465c572e08a25cdec)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:919 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:245 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (b3e5e8bef4feac611bedfe20147c8c79)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (b3e5e8bef4feac611bedfe20147c8c79)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:355 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:851 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (a30147c8ca181d6c32af8d277ecef213)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (a30147c8ca181d6c32af8d277ecef213)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:522 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:00 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (b36624441fedf82e05f11b26ae86331a)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (b36624441fedf82e05f11b26ae86331a)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:876 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:296 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (dac5c3ac5db10a2a0c66dca2e6ae2503)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (dac5c3ac5db10a2a0c66dca2e6ae2503)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:237 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:836 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (b23b6f33cdb9c5a61127834c5cc50c7a)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (b23b6f33cdb9c5a61127834c5cc50c7a)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:225 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:759 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (0cf5ad6769d4832ca68c31612ca81464)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (0cf5ad6769d4832ca68c31612ca81464)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:715 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:451 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (6e0ded18495c8a432dfe3f0c65d9fdc2)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (6e0ded18495c8a432dfe3f0c65d9fdc2)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:420 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 16:01:20 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (3e20f20fdcb46178dc57cbf091714769)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (3e20f20fdcb46178dc57cbf091714769)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 16:01:371 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 17:01:268 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (3f8f1d2f3ad6c9dc241d121396407fb7)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (3f8f1d2f3ad6c9dc241d121396407fb7)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 17:01:06 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 17:01:355 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (ece0e82a1c575727ec842649d7d08762)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (ece0e82a1c575727ec842649d7d08762)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 19:01:163 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 19:01:90 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (996af10253f852571bf4909f099b1a56)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (996af10253f852571bf4909f099b1a56)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 19:01:653 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 19:01:361 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (8f5e206d37639fa7b5874f2f34a9a4f1)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (8f5e206d37639fa7b5874f2f34a9a4f1)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 19:01:706 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 19:01:314 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (b08d14fe6b1e3cc822e92a54f8cf70eb)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (b08d14fe6b1e3cc822e92a54f8cf70eb)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 20:01:73 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 20:01:911 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (9646c89202f94988a06f279097cebd5f)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (9646c89202f94988a06f279097cebd5f)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 23:01:538 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 23:01:192 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (6d2995f71d5a5107ed68ab3533ae66d6)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (6d2995f71d5a5107ed68ab3533ae66d6)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-20 23:01:648 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-20 23:01:77 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (920f816bca46be84b4439d6b5523d4eb)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (920f816bca46be84b4439d6b5523d4eb)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:703 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:850 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (9a3bff347d0b8228e6f2fa0922802e28)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (9a3bff347d0b8228e6f2fa0922802e28)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:29 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:942 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (98e24a36a4aa708e0ac384bd7e617866)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (98e24a36a4aa708e0ac384bd7e617866)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:694 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:895 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (6651471ff5ebba2e3c3fd53154e1dca0)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (6651471ff5ebba2e3c3fd53154e1dca0)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:237 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:816 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (a1e3b714d453a67849a358e81d650457)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (a1e3b714d453a67849a358e81d650457)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:762 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:631 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (7bdc45b4c778a699ee6b6cbd42aca273)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (7bdc45b4c778a699ee6b6cbd42aca273)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:384 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:418 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (ce3b13b85285e66a82774c35eaa51a4e)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (ce3b13b85285e66a82774c35eaa51a4e)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:628 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:978 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (0e987f93b83df9e4f218b50c2a1929dc)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (0e987f93b83df9e4f218b50c2a1929dc)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 00:01:21 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 00:01:491 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (e6434965075b5515be906fe0b96ffc99)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (e6434965075b5515be906fe0b96ffc99)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 21:01:600 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 21:01:311 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (b5589af72c2abcecca382d299b14e791)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (b5589af72c2abcecca382d299b14e791)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 21:01:809 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 21:01:187 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (267824b23b2a6bd8724a2257022a5a63)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (267824b23b2a6bd8724a2257022a5a63)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-01-21 22:01:681 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-21 22:01:892 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (4e1fa89b20f4e3f3835138b2f761aeb9)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (4e1fa89b20f4e3f3835138b2f761aeb9)] -> xpath: //div[@class='site-header__user-details']//a]]
+2022-03-09 21:03:03 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-09 21:03:916 INFO  LoginPage :35 - Clicking on login link : [[[ChromeDriver: chrome on WINDOWS (9ae2733a78c4d1faeefd947c264296e5)] -> xpath: //div[@class='site-header__user-details']//a], [[ChromeDriver: chrome on WINDOWS (9ae2733a78c4d1faeefd947c264296e5)] -> xpath: //div[@class='site-header__user-details']//a]]
